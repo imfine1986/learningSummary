@@ -1,0 +1,18 @@
+{
+  "name": "learningSummary",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "datatables": "~1.10.7",
+    "datatables-plugins": "~1.10.7",
+    "flot": "~0.8.3",
+    "font-awesome": "~4.3.0",
+    "holderjs": "~2.8.0",
+    "metisMenu": "~2.0.2",
+    "morrisjs": "~0.5.1",
+    "datatables-responsive": "~1.0.6",
+    "bootstrap-social": "~4.9.1",
+    "flot.tooltip": "~0.8.5"
+  }
+}
